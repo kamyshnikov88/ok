@@ -11,8 +11,9 @@ python3 main.py
 
 ## Description
 
-Parser get post links that pinned images contains text from targets.
-1. Set targets in targets.csv.
-2. Execute main.py. Links store in result.csv
-3. ??? 
-4. PROFIT
+Parser get post by search queries and get thos post link that pinned images contains text from targets.
+1. Set queries in queries.csv
+2. Set targets in targets.csv
+3. Execute main.py. Links store in result.csv
+4. ??? 
+5. PROFIT
